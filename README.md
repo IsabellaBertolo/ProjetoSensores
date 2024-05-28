@@ -1,1 +1,2 @@
 # ProjetoSensores
+Acelerômetro
